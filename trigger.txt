@@ -1,1 +1,2 @@
-gitea/gitea:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/docker_images/gitea:1.22.0
+gitea/gitea:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/gitea:latest
+amilys/embyserver:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/embyserver:latest
