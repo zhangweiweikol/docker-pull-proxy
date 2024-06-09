@@ -6,3 +6,4 @@ metatube/metatube-server:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol
 p3terx/ariang:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/ariang:latest
 p3terx/aria2-pro:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/aria2-pro:latest
 hslr/sun-panel:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/sun-panel:latest
+nginx registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nginx:latest
