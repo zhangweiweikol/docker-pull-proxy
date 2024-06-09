@@ -1,1 +1,1 @@
-gitea/gitea:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/gitea/gitea:latest
+gitea/gitea:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/docker_images/gitea/gitea:latest
