@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
+gitea/gitea:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/gitea/gitea:latest
