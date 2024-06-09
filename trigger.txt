@@ -1,2 +1,8 @@
 gitea/gitea:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/gitea:latest
 amilys/embyserver:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/embyserver:latest
+xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/alist:latest
+jeessy/ddns-go:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/ddns-go:latest
+metatube/metatube-server:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/metatube-server:latest
+p3terx/ariang:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/ariang:latest
+p3terx/aria2-pro:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/aria2-pro:latest
+hslr/sun-panel:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/sun-panel:latest
