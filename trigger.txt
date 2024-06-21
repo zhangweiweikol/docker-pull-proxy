@@ -8,3 +8,4 @@ p3terx/aria2-pro:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/aria2-p
 hslr/sun-panel:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/sun-panel:latest
 nginx registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nginx:latest
 tomcat:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/tomcat:latest
+xhongc/music_tag_web:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/music_tag_web:latest
