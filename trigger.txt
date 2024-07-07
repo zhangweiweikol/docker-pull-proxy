@@ -1,3 +1,4 @@
+sonatype/nexus3:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nexus3:latest
 jgraph/drawio:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/drawio:latest
 k1483162508/musicn:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/musicn:latest
 gitea/gitea:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/gitea:latest
