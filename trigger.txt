@@ -1,3 +1,4 @@
+onlyoffice/documentserver:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/onlyoffice:latest
 nextcloud:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nextcloud:latest
 sonatype/nexus3:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nexus3:latest
 jgraph/drawio:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/drawio:latest
