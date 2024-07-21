@@ -1,3 +1,4 @@
+amtoaer/bili-sync-rs:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/bili-sync-rs:latest
 onlyoffice/documentserver:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/onlyoffice:latest
 nextcloud:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nextcloud:latest
 sonatype/nexus3:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nexus3:latest
