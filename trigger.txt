@@ -1,1 +1,1 @@
-ahdev0/drawdb:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/drawdb:latest
+xinsodev/drawdb:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/drawdb:latest
