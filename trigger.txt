@@ -1,1 +1,1 @@
-amtoaer/bili-sync-rs:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/bili-sync-rs:latest
+ahdev0/drawdb:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/drawdb:latest
