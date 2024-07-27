@@ -1,1 +1,1 @@
-xinsodev/drawdb:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/drawdb:latest
+anoraker/danmu:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/danmu:latest
