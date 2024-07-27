@@ -1,1 +1,1 @@
-anoraker/danmu:1.0 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/danmu:1.0
+linuxserver/jellyfin registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/jellyfin
