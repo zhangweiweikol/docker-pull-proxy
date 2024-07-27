@@ -1,1 +1,1 @@
-anoraker/danmu:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/danmu:latest
+anoraker/danmu:2.0 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/danmu:2.0
