@@ -1,1 +1,1 @@
-linuxserver/jellyfin registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/jellyfin
+linuxserver/freshrss:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/freshrss:latest
