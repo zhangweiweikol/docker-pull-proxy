@@ -1,1 +1,1 @@
-diygod/rsshub:chromium-bundled registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/rsshub:chromium-bundled
+cooderl/wewe-rss-sqlite:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/wewe-rss-sqlite:latest
