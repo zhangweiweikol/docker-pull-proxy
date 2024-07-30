@@ -1,1 +1,1 @@
-linuxserver/freshrss:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/freshrss:latest
+diygod/rsshub:chromium-bundled registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/rsshub:chromium-bundled
