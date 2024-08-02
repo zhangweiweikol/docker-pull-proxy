@@ -1,1 +1,1 @@
-yafoo/pushme-server:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/pushme-server:latest
+ypptec/nascab:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nascab:latest
