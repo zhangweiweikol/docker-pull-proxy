@@ -1,1 +1,1 @@
-cooderl/wewe-rss-sqlite:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/wewe-rss-sqlite:latest
+yafoo/pushme-server:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/pushme-server:latest
