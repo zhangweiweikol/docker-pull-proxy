@@ -1,1 +1,1 @@
-xldevops/jdk17-alpine:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/jdk17-alpine:latest
+openjdk:17-alpine registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/openjdk:17-alpine
