@@ -1,1 +1,1 @@
-adoptopenjdk:17 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/adoptopenjdk:17
+openeuler/bisheng-jdk:17.0.10-oe2203sp3 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/bisheng-jdk:17
