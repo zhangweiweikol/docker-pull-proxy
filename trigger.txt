@@ -1,1 +1,1 @@
-openjdk:17-alpine registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/openjdk:17-alpine
+adoptopenjdk:17 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/adoptopenjdk:17
