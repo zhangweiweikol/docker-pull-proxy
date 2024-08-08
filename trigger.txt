@@ -1,1 +1,1 @@
-ypptec/nascab:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nascab:latest
+xldevops/jdk17-alpine:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/jdk17-alpine:latest
