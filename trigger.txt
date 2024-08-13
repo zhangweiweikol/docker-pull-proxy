@@ -1,1 +1,1 @@
-openeuler/bisheng-jdk:17.0.10-oe2203sp3 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/bisheng-jdk:17
+syncthing/syncthing:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/syncthing:latest
