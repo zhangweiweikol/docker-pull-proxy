@@ -1,1 +1,1 @@
-advplyr/audiobookshelf:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/audiobookshelf:latest
+advplyr/audiobookshelf:2.8.0 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/audiobookshelf:2.8.0
