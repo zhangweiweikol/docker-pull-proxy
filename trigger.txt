@@ -1,1 +1,1 @@
-linuxserver/booksonic:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/booksonic:latest
+linuxserver/booksonic-air:latest:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/booksonic:latest
