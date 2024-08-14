@@ -1,1 +1,1 @@
-syncthing/syncthing:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/syncthing:latest
+advplyr/audiobookshelf:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/audiobookshelf:latest
