@@ -1,1 +1,1 @@
-advplyr/audiobookshelf:2.10.1 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/audiobookshelf:2.10.1
+photoprism/photoprism:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/photoprism:latest
