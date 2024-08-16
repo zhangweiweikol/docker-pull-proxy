@@ -1,1 +1,1 @@
-johngong/qbittorrent:4.6.0-4.6.0.10 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/qbittorrent:4.6.0-4.6.0.10
+linuxserver/jackett:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/jackett:latest
