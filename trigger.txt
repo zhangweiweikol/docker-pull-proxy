@@ -1,1 +1,1 @@
-photoprism/photoprism:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/photoprism:latest
+zonty/nas-tools:2.9.1 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nas-tools:2.9.1
