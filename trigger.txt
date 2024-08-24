@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/home-assistant:latest
+1panel/maxkb:v1.4.1 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/maxkb:v1.4.1
