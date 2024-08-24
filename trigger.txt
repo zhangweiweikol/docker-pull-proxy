@@ -1,1 +1,1 @@
-linuxserver/jackett:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/jackett:latest
+homeassistant/home-assistant:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/home-assistant:latest
