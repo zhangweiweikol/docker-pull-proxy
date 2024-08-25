@@ -1,1 +1,1 @@
-1panel/maxkb:v1.4.1 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/maxkb:v1.4.1
+ollama/ollama:0.3.6 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/ollama:0.3.6
