@@ -1,1 +1,1 @@
-ollama/ollama:0.3.6 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/ollama:0.3.6
+zonty/nas-tools:2.9.1 dev.zhww.site:8999/nas-tools:2.9.1
