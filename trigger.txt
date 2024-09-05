@@ -1,1 +1,1 @@
-zonty/nas-tools:2.9.1 dev.zhww.site:8999/nas-tools:2.9.1
+qingfeng2336/it-tools:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/it-tools:latest
