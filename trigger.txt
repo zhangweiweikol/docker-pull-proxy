@@ -1,1 +1,1 @@
-qingfeng2336/it-tools:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/it-tools:latest
+nginx:1.27 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nginx:1.27
