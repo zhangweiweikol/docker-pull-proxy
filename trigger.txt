@@ -1,1 +1,1 @@
-qingfeng2336/it-tools:latest dev.zhww.site:8443/zhangweiweikol/it-tools:latest
+openeuler/bisheng-jdk:17.0.10-oe2203sp3 dev.zhww.site:8443/zhangweiweikol/bisheng-jdk:17
