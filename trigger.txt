@@ -1,1 +1,1 @@
-nginx:1.27 dev.zhww.site:8443/zhangweiweikol/nginx:1.27
+qingfeng2336/it-tools:latest dev.zhww.site:8443/zhangweiweikol/it-tools:latest
