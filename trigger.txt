@@ -1,4 +1,1 @@
-nginx:1.27 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/nginx:1.27
-
-
-
+nginx:1.27 dev.zhww.site:8443/nginx:1.27
