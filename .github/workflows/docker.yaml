@@ -7,12 +7,12 @@ on:
   #   branches: [ main ]
 
 env:
-  REGISTRY: dev.zhww.site:8443
-  ALIYUN_REGISTRY_USER: "zww"
-  ALIYUN_REGISTRY_PASSWORD: "111111"
- # REGISTRY: registry.cn-hangzhou.aliyuncs.com
- # ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
- # ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
+  # REGISTRY: dev.zhww.site:8443
+  # ALIYUN_REGISTRY_USER: "zww"
+  # ALIYUN_REGISTRY_PASSWORD: "111111"
+  REGISTRY: registry.cn-hangzhou.aliyuncs.com
+  ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
+  ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
 
 jobs:
