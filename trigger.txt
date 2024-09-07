@@ -1,3 +1,1 @@
-openeuler/bisheng-jdk:17.0.10-oe2203sp3 dev.zhww.site:8443/zhangweiweikol/bisheng-jdk:17
-
-
+gdy666/lucky:2.11.2 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/lucky:2.11.2
