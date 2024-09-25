@@ -1,2 +1,3 @@
 gdy666/lucky:2.11.2 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/lucky:2.11.2
 vaultwarden/server:1.32.0-alpine registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/vaultwarden:1.32.0-alpine
+jiangming927/musicn:1.5.2 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/musicn:1.5.2
