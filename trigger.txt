@@ -1,1 +1,1 @@
-iiidev/iii:0.25.1 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/iiidev/iii:0.25.1
+node:22-slim registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/node:22-slim
