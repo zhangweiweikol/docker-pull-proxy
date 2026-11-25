@@ -1,1 +1,1 @@
-iiidev/iii:0.25.1 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/iiidev:0.25.1
+iiidev/iii:0.25.1 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/iiidev/iii:0.25.1
