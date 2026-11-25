@@ -1,1 +1,1 @@
-iiidev/iii:0.25.1 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/iiidev/iii:0.25.1
+agentmemory:0.9.33 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/agentmemory:0.9.33
