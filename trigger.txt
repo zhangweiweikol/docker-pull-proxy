@@ -1,1 +1,2 @@
 agentmemory:0.9.33 registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/agentmemory:0.9.33
+ricwang/dengdeng-server:latest registry.cn-hangzhou.aliyuncs.com/zhangweiweikol/dengdeng-server:latest
